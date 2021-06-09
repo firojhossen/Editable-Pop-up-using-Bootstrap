@@ -1,0 +1,1 @@
+To run this simple project youhave to net connetion on your pc. Then download the index.html file and open with a browser. Then you can see the desired output. Thank you.
